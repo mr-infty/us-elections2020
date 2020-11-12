@@ -1,0 +1,8 @@
+Data sources:
+ - https://results.enr.clarityelections.com/GA/Fulton/105430/web-scrolling.264614/#/
+ - https://results.enr.clarityelections.com/GA/Fulton/105430/270902/json/ALL.json
+ - https://results.enr.clarityelections.com/GA/Fulton/105430/270902/json/Election_Day_Votes.json
+ - https://results.enr.clarityelections.com/GA/Fulton/105430/270902/json/Absentee_by_Mail_Votes.json
+ - https://results.enr.clarityelections.com/GA/Fulton/105430/270902/json/Advanced_Voting_Votes.json
+ - https://results.enr.clarityelections.com/GA/Fulton/105430/270902/json/Provisional_Votes.json
+ - https://gisdata.fultoncountyga.gov/datasets/5f6cad4026b2483bbb3c5fe9c9266671_0?geometry=-88.760%2C33.294%2C-80.845%2C34.887
