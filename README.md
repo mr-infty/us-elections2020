@@ -327,6 +327,25 @@ The election results for Trump **violate** Benford's law with 99% certainty:
 
 ![Empirical distribution of fractional part of decimal logarithm of votes for DeKalb,Georgia (R) (black line) and uniform distribution (gray line)](graphics/DeKalb,Georgia_R.pdf)
 
+### Forsyth
+The test results for the county-wide election results (per precinct) of Forsyth County, Georgia are as follows.
+
+The election results for Biden **violate** Benford's law with 99% certainty:
+
+- dmax: 0.383994
+- dcrit: 0.294000
+- N: 20
+
+![Empirical distribution of fractional part of decimal logarithm of votes for Forsyth,Georgia (D) (black line) and uniform distribution (gray line)](graphics/Forsyth,Georgia_D.pdf)
+
+The election results for Trump **violate** Benford's law with 99% certainty:
+
+- dmax: 0.325526
+- dcrit: 0.294000
+- N: 20
+
+![Empirical distribution of fractional part of decimal logarithm of votes for Forsyth,Georgia (R) (black line) and uniform distribution (gray line)](graphics/Forsyth,Georgia_R.pdf)
+
 ### Fulton
 The test results for the county-wide election results (per precinct) of Fulton County, Georgia are as follows.
 
@@ -364,4 +383,23 @@ The election results for Trump **violate** Benford's law with 99% certainty:
 - N: 156
 
 ![Empirical distribution of fractional part of decimal logarithm of votes for Gwinnett,Georgia (R) (black line) and uniform distribution (gray line)](graphics/Gwinnett,Georgia_R.pdf)
+
+### Henry
+The test results for the county-wide election results (per precinct) of Henry County, Georgia are as follows.
+
+The election results for Biden **violate** Benford's law with 99% certainty:
+
+- dmax: 0.249758
+- dcrit: 0.223271
+- N: 37
+
+![Empirical distribution of fractional part of decimal logarithm of votes for Henry,Georgia (D) (black line) and uniform distribution (gray line)](graphics/Henry,Georgia_D.pdf)
+
+The election results for Trump **seem to satisfy** Benford's law up to an error of 1%:
+
+- dmax: 0.167748
+- dcrit: 0.223271
+- N: 37
+
+![Empirical distribution of fractional part of decimal logarithm of votes for Henry,Georgia (R) (black line) and uniform distribution (gray line)](graphics/Henry,Georgia_R.pdf)
 
