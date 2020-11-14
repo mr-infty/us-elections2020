@@ -384,6 +384,25 @@ The election results for Trump **violate** Benford's law with 99% certainty:
 
 ![Empirical distribution of fractional part of decimal logarithm of votes for Gwinnett,Georgia (R) (black line) and uniform distribution (gray line)](graphics/Gwinnett,Georgia_R.pdf)
 
+### Hall
+The test results for the county-wide election results (per precinct) of Hall County, Georgia are as follows.
+
+The election results for Biden **violate** Benford's law with 99% certainty:
+
+- dmax: 0.255701
+- dcrit: 0.238000
+- N: 31
+
+![Empirical distribution of fractional part of decimal logarithm of votes for Hall,Georgia (D) (black line) and uniform distribution (gray line)](graphics/Hall,Georgia_D.pdf)
+
+The election results for Trump **violate** Benford's law with 99% certainty:
+
+- dmax: 0.311377
+- dcrit: 0.238000
+- N: 31
+
+![Empirical distribution of fractional part of decimal logarithm of votes for Hall,Georgia (R) (black line) and uniform distribution (gray line)](graphics/Hall,Georgia_R.pdf)
+
 ### Henry
 The test results for the county-wide election results (per precinct) of Henry County, Georgia are as follows.
 
