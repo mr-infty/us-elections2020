@@ -251,6 +251,25 @@ The election results for Trump **seem to satisfy** Benford's law up to an error 
 
 ![Empirical distribution of fractional part of decimal logarithm of votes for Georgia (R) (black line) and uniform distribution (gray line)](graphics/Georgia_R.pdf)
 
+### Cobb
+The test results for the county-wide election results (per precinct) of Cobb County, Georgia are as follows.
+
+The election results for Biden **violate** Benford's law with 99% certainty:
+
+- dmax: 0.281565
+- dcrit: 0.112784
+- N: 145
+
+![Empirical distribution of fractional part of decimal logarithm of votes for Cobb,Georgia (D) (black line) and uniform distribution (gray line)](graphics/Cobb,Georgia_D.pdf)
+
+The election results for Trump **violate** Benford's law with 99% certainty:
+
+- dmax: 0.253272
+- dcrit: 0.112784
+- N: 145
+
+![Empirical distribution of fractional part of decimal logarithm of votes for Cobb,Georgia (R) (black line) and uniform distribution (gray line)](graphics/Cobb,Georgia_R.pdf)
+
 ### Fulton
 The test results for the county-wide election results (per precinct) of Fulton County, Georgia are as follows.
 
