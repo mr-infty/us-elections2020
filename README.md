@@ -270,6 +270,25 @@ The election results for Trump **violate** Benford's law with 99% certainty:
 
 ![Empirical distribution of fractional part of decimal logarithm of votes for Chatham,Georgia (R) (black line) and uniform distribution (gray line)](graphics/Chatham,Georgia_R.pdf)
 
+### Clayton
+The test results for the county-wide election results (per precinct) of Clayton County, Georgia are as follows.
+
+The election results for Biden **violate** Benford's law with 99% certainty:
+
+- dmax: 0.463395
+- dcrit: 0.168452
+- N: 65
+
+![Empirical distribution of fractional part of decimal logarithm of votes for Clayton,Georgia (D) (black line) and uniform distribution (gray line)](graphics/Clayton,Georgia_D.pdf)
+
+The election results for Trump **violate** Benford's law with 99% certainty:
+
+- dmax: 0.237590
+- dcrit: 0.168452
+- N: 65
+
+![Empirical distribution of fractional part of decimal logarithm of votes for Clayton,Georgia (R) (black line) and uniform distribution (gray line)](graphics/Clayton,Georgia_R.pdf)
+
 ### Cobb
 The test results for the county-wide election results (per precinct) of Cobb County, Georgia are as follows.
 
