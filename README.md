@@ -251,6 +251,25 @@ The election results for Trump **seem to satisfy** Benford's law up to an error 
 
 ![Empirical distribution of fractional part of decimal logarithm of votes for Georgia (R) (black line) and uniform distribution (gray line)](graphics/Georgia_R.pdf)
 
+### Bartow
+The test results for the county-wide election results (per precinct) of Bartow County, Georgia are as follows.
+
+The election results for Biden **seem to satisfy** Benford's law up to an error of 1%:
+
+- dmax: 0.136727
+- dcrit: 0.318000
+- N: 17
+
+![Empirical distribution of fractional part of decimal logarithm of votes for Bartow,Georgia (D) (black line) and uniform distribution (gray line)](graphics/Bartow,Georgia_D.pdf)
+
+The election results for Trump **seem to satisfy** Benford's law up to an error of 1%:
+
+- dmax: 0.277048
+- dcrit: 0.318000
+- N: 17
+
+![Empirical distribution of fractional part of decimal logarithm of votes for Bartow,Georgia (R) (black line) and uniform distribution (gray line)](graphics/Bartow,Georgia_R.pdf)
+
 ### Chatham
 The test results for the county-wide election results (per precinct) of Chatham County, Georgia are as follows.
 
@@ -269,6 +288,25 @@ The election results for Trump **violate** Benford's law with 99% certainty:
 - N: 92
 
 ![Empirical distribution of fractional part of decimal logarithm of votes for Chatham,Georgia (R) (black line) and uniform distribution (gray line)](graphics/Chatham,Georgia_R.pdf)
+
+### Clarke
+The test results for the county-wide election results (per precinct) of Clarke County, Georgia are as follows.
+
+The election results for Biden **violate** Benford's law with 99% certainty:
+
+- dmax: 0.580093
+- dcrit: 0.269000
+- N: 24
+
+![Empirical distribution of fractional part of decimal logarithm of votes for Clarke,Georgia (D) (black line) and uniform distribution (gray line)](graphics/Clarke,Georgia_D.pdf)
+
+The election results for Trump **violate** Benford's law with 99% certainty:
+
+- dmax: 0.383468
+- dcrit: 0.269000
+- N: 24
+
+![Empirical distribution of fractional part of decimal logarithm of votes for Clarke,Georgia (R) (black line) and uniform distribution (gray line)](graphics/Clarke,Georgia_R.pdf)
 
 ### Clayton
 The test results for the county-wide election results (per precinct) of Clayton County, Georgia are as follows.
@@ -326,6 +364,25 @@ The election results for Trump **violate** Benford's law with 99% certainty:
 - N: 191
 
 ![Empirical distribution of fractional part of decimal logarithm of votes for DeKalb,Georgia (R) (black line) and uniform distribution (gray line)](graphics/DeKalb,Georgia_R.pdf)
+
+### Douglas
+The test results for the county-wide election results (per precinct) of Douglas County, Georgia are as follows.
+
+The election results for Biden **violate** Benford's law with 99% certainty:
+
+- dmax: 0.277425
+- dcrit: 0.264000
+- N: 25
+
+![Empirical distribution of fractional part of decimal logarithm of votes for Douglas,Georgia (D) (black line) and uniform distribution (gray line)](graphics/Douglas,Georgia_D.pdf)
+
+The election results for Trump **seem to satisfy** Benford's law up to an error of 1%:
+
+- dmax: 0.176356
+- dcrit: 0.264000
+- N: 25
+
+![Empirical distribution of fractional part of decimal logarithm of votes for Douglas,Georgia (R) (black line) and uniform distribution (gray line)](graphics/Douglas,Georgia_R.pdf)
 
 ### Forsyth
 The test results for the county-wide election results (per precinct) of Forsyth County, Georgia are as follows.
@@ -421,4 +478,42 @@ The election results for Trump **seem to satisfy** Benford's law up to an error 
 - N: 37
 
 ![Empirical distribution of fractional part of decimal logarithm of votes for Henry,Georgia (R) (black line) and uniform distribution (gray line)](graphics/Henry,Georgia_R.pdf)
+
+### Houston
+The test results for the county-wide election results (per precinct) of Houston County, Georgia are as follows.
+
+The election results for Biden **violate** Benford's law with 99% certainty:
+
+- dmax: 0.348892
+- dcrit: 0.327000
+- N: 16
+
+![Empirical distribution of fractional part of decimal logarithm of votes for Houston,Georgia (D) (black line) and uniform distribution (gray line)](graphics/Houston,Georgia_D.pdf)
+
+The election results for Trump **seem to satisfy** Benford's law up to an error of 1%:
+
+- dmax: 0.213568
+- dcrit: 0.327000
+- N: 16
+
+![Empirical distribution of fractional part of decimal logarithm of votes for Houston,Georgia (R) (black line) and uniform distribution (gray line)](graphics/Houston,Georgia_R.pdf)
+
+### Lowndes
+The test results for the county-wide election results (per precinct) of Lowndes County, Georgia are as follows.
+
+The election results for Biden **seem to satisfy** Benford's law up to an error of 1%:
+
+- dmax: 0.148536
+- dcrit: 0.361000
+- N: 13
+
+![Empirical distribution of fractional part of decimal logarithm of votes for Lowndes,Georgia (D) (black line) and uniform distribution (gray line)](graphics/Lowndes,Georgia_D.pdf)
+
+The election results for Trump **seem to satisfy** Benford's law up to an error of 1%:
+
+- dmax: 0.185087
+- dcrit: 0.361000
+- N: 13
+
+![Empirical distribution of fractional part of decimal logarithm of votes for Lowndes,Georgia (R) (black line) and uniform distribution (gray line)](graphics/Lowndes,Georgia_R.pdf)
 
